@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/Tasin5541/portfolio.svg)](http://hits.dwyl.com/Tasin5541/Face_Recognizer)
+
 # Face_Recognizer
 Face Recognition with ResNet-50
 
